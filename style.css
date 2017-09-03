@@ -5,6 +5,8 @@
 	background-color: #F2F2F2;	
 	font-family: 'Lato', sans-serif;
 	min-height: 350px;
+	border-style: dashed;
+	border-color: #B4B4B4;
 }
 
 h1{
